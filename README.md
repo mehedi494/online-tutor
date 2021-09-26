@@ -6,6 +6,7 @@
 * Open https://vigorous-swirles-d5a8f0.netlify.app/ to view it in the browser.
 * USING REACT FRAME WORK
 * USING BOOTSTARP FRAME WORK
+* USING HTML WITH PLAIN CSS
 
 In the project directory, you can run:
 
